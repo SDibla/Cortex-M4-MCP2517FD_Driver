@@ -6,10 +6,10 @@ File Name:
     	drv_canfdspi_api.c
 
 Summary:
-    	Implementation of MCU specific API function for the CAN 	FD SPI controller.
+    	Implementation of MCU specific API function for the CAN FD SPI controller.
 
 Description:
-    	API function implementation for the CAN FD SPI controller 	like the MCP2517FD.
+    	API function implementation for the CAN FD SPI controller like the MCP2517FD.
  *************************************************************/
 
 //************************************************************
