@@ -6,10 +6,10 @@ File Name:
     	drv_canfdspi_api.h
 
 Summary:
-    	This header file provides the API function prototypes for 	the CAN FD SPI controller.
+    	This header file provides the API function prototypes for the CAN FD SPI controller.
 
 Description:
-    	API function prototypes for the CAN FD SPI controller 	like the MCP2517FD.
+    	API function prototypes for the CAN FD SPI controller like the MCP2517FD.
  *******************************************************************************/
 
 #ifndef _DRV_CANFDSPI_API_H
