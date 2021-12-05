@@ -6,7 +6,7 @@ File Name:
     	drv_canfdspi_defines.h
 
 Summary:
-    	This header file contains object declarations used in the 	API. This also contains device specific defines.
+    	This header file contains object declarations used in the API. This also contains device specific defines.
 
 Description:
     	This file is used by the API.
