@@ -6,7 +6,7 @@ File Name:
     	drv_canfdspi_register.h
 
 Summary:
-    	This header file contains SPI instruction defines, 	register address defines, register structures, and reset 	values of registers.
+    	This header file contains SPI instruction defines, register address defines, register structures, and reset values of registers.
 
 Description:
     	This file is used by the API.
